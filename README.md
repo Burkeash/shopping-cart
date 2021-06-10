@@ -1,7 +1,7 @@
-# shopping-cart
+# shopping-cart-2021-summer
 
 
-# Setup
+## Setup
 
 Create and activate a virtual env:
 
@@ -10,7 +10,7 @@ conda create -n shopping-env python=3.8
 conda activate shopping-env
 ```
 
-# Usage
+## Usage
 
 Run the app:
 
