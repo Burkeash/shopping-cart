@@ -94,8 +94,7 @@ print("SUBTOTAL:", to_usd(subtotal))
 print("TAX:", to_usd(tax))
 print("TOTAL:", to_usd(total))
 
-
-#Receipt portion
+#Receipt Section
 
 print("Would you like a receipt?")
 user_email_address = input("Please input your email address, or 'N' to opt-out: ")
