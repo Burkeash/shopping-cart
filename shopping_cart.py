@@ -46,8 +46,6 @@ products = [
 timestamp = datetime.datetime.now()
 human_friendly_timestamp = timestamp.strftime("%Y-%m-%d %H:%M")
 
-print(len(products))
-
 #1 capture product IDs until we're finished
 #(use infinite while loop)
 
